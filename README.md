@@ -1,3 +1,5 @@
 # algorithm
 
-用来记录算法练习和心得
+using for record algorithm problems i did, include leetcode.
+
+ref: https://leetcode.com/problemset/algorithms/
